@@ -26,7 +26,7 @@ import java.util.Scanner;
             System.out.println(x);
         }
         /** @return count of words*/
-        public static int (String x, final String b){
+        public static int (String x, final String a){
             x = x.toLowerCase();
         }
     }
